@@ -1,4 +1,4 @@
-from src.algorithms.BKBitCounting import BKBitCounting
+from src.algorithms.bit_manipulation.BKBitCounting import BKBitCounting
 
 
 def count_bits(num: int) -> int:
